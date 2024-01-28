@@ -1,0 +1,14 @@
+{
+  "name": "xpressample",
+  "version": "1.0.0",
+  "description": "NodeJS REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Daniele Navarra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
